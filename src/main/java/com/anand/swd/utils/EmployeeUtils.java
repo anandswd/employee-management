@@ -1,7 +1,7 @@
-package com.swiss.re.utils;
+package com.anand.swd.utils;
 
-import com.swiss.re.bean.Employee;
-import com.swiss.re.mapper.EmployeeMapper;
+import com.anand.swd.bean.Employee;
+import com.anand.swd.mapper.EmployeeMapper;
 
 import java.io.IOException;
 import java.nio.file.Files;

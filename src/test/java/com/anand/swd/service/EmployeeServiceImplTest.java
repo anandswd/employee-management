@@ -1,7 +1,7 @@
-package com.swiss.re.service;
+package com.anand.swd.service;
 
-import com.swiss.re.bean.Employee;
-import com.swiss.re.utils.EmployeeUtils;
+import com.anand.swd.bean.Employee;
+import com.anand.swd.utils.EmployeeUtils;
 import org.junit.Before;
 import org.junit.Test;
 

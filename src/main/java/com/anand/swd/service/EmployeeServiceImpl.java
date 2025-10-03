@@ -1,6 +1,6 @@
-package com.swiss.re.service;
+package com.anand.swd.service;
 
-import com.swiss.re.bean.Employee;
+import com.anand.swd.bean.Employee;
 
 import java.util.List;
 import java.util.Map;

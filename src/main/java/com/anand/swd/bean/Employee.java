@@ -1,4 +1,4 @@
-package com.swiss.re.bean;
+package com.anand.swd.bean;
 
 public class Employee {
     private String Id;

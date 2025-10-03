@@ -1,6 +1,6 @@
-package com.swiss.re.mapper;
+package com.anand.swd.mapper;
 
-import com.swiss.re.bean.Employee;
+import com.anand.swd.bean.Employee;
 
 import java.util.List;
 import java.util.stream.Collectors;
