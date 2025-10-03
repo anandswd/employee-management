@@ -6,7 +6,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class EmployeeMapper {
-
+    /*
+    The method is used to mapping List to Employee
+     */
     public List<Employee> maptoEmployee(List<List<String>> lists){
         return lists.stream().skip(1).map(data->{
             Employee employee = new Employee();
